@@ -1,7 +1,7 @@
-# Python-practice:
-##Create 2 list and insert values from both list in third list
-## append
-## insert
+Python-practice:
+Create 2 list and insert values from both list in third list
+append
+insert
 ## length
 ## Transpose
 ## create 2 list and create third list having common values
@@ -31,4 +31,4 @@
 ##Given an array arr[] of n elements , write a python function to search given element x in arr[] 
 ## program to join two strings
 ## isdigit function
-##Write a Python program to split strings using newline delimiter 
+## Write a Python program to split strings using newline delimiter 
